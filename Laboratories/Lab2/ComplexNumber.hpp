@@ -52,15 +52,15 @@ class ComplexNumber{
         // they will work only if we have ComplexNumber + type_defined_for_operators
         bool operator<(const ComplexNumber& obj) const;
         bool operator<(const float new_x) const;
-	    bool operator<=(const ComplexNumber& obj) const;
+	bool operator<=(const ComplexNumber& obj) const;
         bool operator<=(const float new_x) const;
-	    bool operator>(const ComplexNumber& obj) const;
+	bool operator>(const ComplexNumber& obj) const;
         bool operator>(const float new_x) const;
-	    bool operator>=(const ComplexNumber& obj) const;
+	bool operator>=(const ComplexNumber& obj) const;
         bool operator>=(const float new_x) const;
-	    bool operator==(const ComplexNumber& obj) const;
+	bool operator==(const ComplexNumber& obj) const;
         bool operator==(const float new_x) const;
-	    bool operator!=(const ComplexNumber& obj) const;
+	bool operator!=(const ComplexNumber& obj) const;
         bool operator!=(const float new_x) const;
 
         // logical operators
