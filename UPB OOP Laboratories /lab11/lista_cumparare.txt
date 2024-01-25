@@ -1,0 +1,4 @@
+Lista cumparare :
+lamai 6 1
+ciocolata 12.3 3
+banane 2.65 3

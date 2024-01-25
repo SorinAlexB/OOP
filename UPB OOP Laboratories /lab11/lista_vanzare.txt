@@ -1,0 +1,4 @@
+Lista vanzare :
+lamai 6 1
+ciocolata 12.3 2
+banane 2.65 3
